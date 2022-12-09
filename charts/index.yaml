@@ -3,12 +3,12 @@ entries:
   dataspace-connector:
   - apiVersion: v2
     appVersion: 0.0.1-SNAPSHOT
-    created: "2022-10-11T11:54:34.1052987+02:00"
+    created: "2022-12-09T13:16:45.1043765+01:00"
     description: A Helm chart to deploy the Eclipse Dataspace Connector to Kubernetes
-    digest: 1aadea0affe2a5959a0c0d813ca4ff3f6390e80c7f4f644a6773ae042bebd3b5
+    digest: 3c5f5bab1b59b543f69edd82338371e8812a4af662b0e629b38879081ff4d8e0
     name: dataspace-connector
     type: application
     urls:
     - dataspace-connector-0.0.3.tgz
     version: 0.0.3
-generated: "2022-10-11T11:54:34.1027202+02:00"
+generated: "2022-12-09T13:16:45.1033477+01:00"
